@@ -1,5 +1,7 @@
 .vscode/launch.json
+.gitignore
 my_california_housing_model.pkl
 /datasets/housing/*
 california.png
 housing.csv
+/project/*
